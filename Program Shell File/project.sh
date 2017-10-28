@@ -3,7 +3,7 @@ show_menu()
 {
 	
     NORMAL=`echo "\033[m"`
-    MENU=`echo "\033[32m"` #blue
+    MENU=`echo "\033[32m"` #Green
     NUMBER=`echo "\033[33m"` #yellow
     FGRED=`echo "\033[41m"`
     RED_TEXT=`echo "\033[31m"`
